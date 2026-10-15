@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jrief/django-admin-sortable2/commit/899402aa0aac301d27dc1c16116dc7c067bf4461",
       "git:hexsha": "899402aa0aac301d27dc1c16116dc7c067bf4461",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T08:57:12.166783+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jrief/django-admin-sortable2/commit/98008324d5830ba9fa1d5f9665c03acf00bbfe12",
